@@ -1,6 +1,6 @@
 <center>
-  <div style="width: 100%; max-width: 900px; border-radius: 10px; overflow: hidden;">
-    <img src="https://i.pinimg.com/736x/53/16/cb/5316cb8bd2cc615e268ebc656d38983e.jpg" width="100%" alt="mybanner" />
+  <div style="width: 100%; max-width: 900px; border-radius: 10px; overflow: hidden; height: 200px; background-color: #000;">
+    <img src="https://i.pinimg.com/736x/53/16/cb/5316cb8bd2cc615e268ebc656d38983e.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%;" alt="mybanner" />
   </div>
 </center>
 
