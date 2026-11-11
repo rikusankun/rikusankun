@@ -21,7 +21,9 @@
 热爱前端开发与开源创作，擅长 **TypeScript / Python / JavaScript**，正在深入学习 **Next.js、React、Vite、GSAP**，计划拓展 Svelte / Vue 及 Laravel / Django 后端能力。  
 对 **网页交互设计、自动化脚本、AI 与 AIGC 应用** 有浓厚兴趣，也玩过 Minecraft 插件/模组开发与服务器运维 🎮
 
-- 🚀 核心项目：[**Inkstone - 现代化知识付费博客系统**](https://github.com/rikusankun/Inkstone)
+- 🚀 **核心项目**：
+  - [**Plain-Code：AI 时代的“防坑”施工手册**](https://github.com/rikusankun/Plain-Code)（不懂代码，也能用大白话管住 AI 写干净代码）
+  - [**Inkstone - 现代化知识付费博客系统**](https://github.com/rikusankun/Inkstone)
 - 🔭 正在开发中：[**基于 Notion 的导航网站 + 博客**](https://github.com/rikusankun/NotionNext)
 - 🌱 当前目标：**全栈能力进阶** + 打造个人数字 IP
 - 🤝 如果我的项目对你有帮助，欢迎 ⭐ **Follow** 支持！
@@ -50,5 +52,5 @@
 <br/>
 
 <div align="center">
-  <i>"回归纯粹，拒绝臃肿。"</i>
+  <i>"回归纯粹，拒绝臃肿。用最直白的代码，实现最复杂的逻辑。"</i>
 </div>
